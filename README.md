@@ -1,3 +1,9 @@
+# Update
+As of 2/19/18, we've integrated a few different layouts (3) for users to choose from. We want Pixure to have a set color palette that users would be able to identify us with (variations of purple).
+
+As of now, we're discontinuing the "custom theme design" aspect of the platform, and incline on replacing it with a "custom template option" enabling users to create different layouts and looks without changing the color scheme.
+
+
 # Themes
 It's hard to satisfy everyone with a single design, that's why at Pixure, we want our users to be able to design their own themes and submit them to us.
 
